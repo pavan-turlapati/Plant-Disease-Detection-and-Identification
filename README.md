@@ -3,7 +3,7 @@ This model learns all the features of 48 different kinds of plants (Healthy and 
 
 Uses 5 layered Conv2D Network, and is trained on 10 epochs as of now. It gives an accuracy of 86% on the valdiation set.
 
-### Note : 
+#### Note : 
 This project is also being extended, wherein we can identify the cures of the diseases and display them along with the disease.
 Long-term goal is to deploy this model to run offline on mobile-phones.
 
