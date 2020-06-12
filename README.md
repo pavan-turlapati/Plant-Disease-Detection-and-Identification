@@ -7,5 +7,8 @@ Uses 5 layered Conv2D Network, and is trained on 10 epochs as of now. It gives a
 This project is also being extended, wherein we can identify the cures of the diseases and display them along with the disease.
 Long-term goal is to deploy this model to run offline on mobile-phones.
 
+#### For visualizing the outputs, please visit the Kaggle link given below :
+https://www.kaggle.com/theskrill/plant-disease-detection-plantvillage/output?scriptVersionId=36117223
+
 
 P.S. : Couldn't add the .h5 and the .pkl file because the file size was too large for GitHub.
